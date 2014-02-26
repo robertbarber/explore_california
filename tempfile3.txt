@@ -1,3 +1,0 @@
-This is the 2nd Temp file
-
-These changes will not be tracked anymore
